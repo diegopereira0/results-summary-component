@@ -1,0 +1,29 @@
+.heading-xl {
+  font:
+    800 4.5rem/1 "Hanken Grotesk",
+    sans-serif;
+}
+
+.heading-l {
+  font:
+    700 2rem/1.3 "Hanken Grotesk",
+    sans-serif;
+}
+
+.heading-m {
+  font:
+    700 1.5rem/1.3 "Hanken Grotesk",
+    sans-serif;
+}
+
+.body-b {
+  font:
+    700 1.125rem/1.3 "Hanken Grotesk",
+    sans-serif;
+}
+
+.body {
+  font:
+    500 1.125rem/1.3 "Hanken Grotesk",
+    sans-serif;
+}
