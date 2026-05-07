@@ -19,8 +19,21 @@ img {
   padding: 0;
 }
 
+body {
+  font-family: "Hanken Grotesk";
+}
+
 img {
   display: block;
   max-width: 100%;
   height: auto;
+}
+
+ul {
+  list-style: none;
+}
+
+a {
+  text-decoration: none;
+  color: inherit;
 }
